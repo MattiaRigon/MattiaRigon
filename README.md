@@ -8,10 +8,11 @@
 🎓 Bachelor's Degree in Computer Engineering 
 🎓 Attending Master's in Artificial Intelligence Systems 
 
+<!--
 🌱 Believer in constant growth and self-improvement.
 
 🚀 Passionate and keen problem solver
-
+-->
 📧 Feel free to connect with me or reach out via email:
 
 (Personal Email) rigonmattia@gmail.com <br>
